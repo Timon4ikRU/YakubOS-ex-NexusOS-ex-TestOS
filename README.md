@@ -14,12 +14,19 @@ Key Features:
 ✅ Real file persistence via DATA_ROOT
 
 🚀 Getting Started
+
 Run in 3 steps:
+
 1.Clone the repository:
+
   git clone https://github.com/Timon4ikRU/TestOS  
+
 2. Navigate to the project:
+
   cd TestOS
+
 3. Launch the latest version:
+
   python TestOS_DevTest_0.0.5.py  
 
 🌍 Call for Translators!
