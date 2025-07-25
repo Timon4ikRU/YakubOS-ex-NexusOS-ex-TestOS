@@ -1,16 +1,52 @@
-# TestOS - an MinimalOS styled code made by timon4ikru, a Russian student of 7th grade
+TestOS: A Minimalist OS-Style Environment 🖥️
+Crafted by timon4ikru, a 7th-grade Russian student
 
-Hello there! When I was 10 years old, I wanted to create my own OS. 
-And today, my wish became true! I'm ready to present my DevTest versions of my first... OS?
-Well, I don't know how to name it because it's NOT an OS. It's a Python code that used to be an OS. 
-Now it only has Russian language, but later, the English versions will be deployed. If you want, you can help me with translation by taking my files and translating them to English language.
-By the way, you can create not only english version, if you know other languages, you can translate to them too.
-And, if you want so, you can create distributives of this... "OS". Like in Linux. 
-Btw, if you make some distributives/translations, publish them with #TestOS_Help hashtag.
+"At 10 years old, I dreamed of creating my own OS. Today, that dream becomes reality!"
 
-P.S. all 5 versions were made in one day, 25th of July.
-P.P.S. 0.0.1 - 0.0.9 is DevTest. 
-       0.1.0 - 0.4.9 will be Alpha.
-       0.5.0 - 0.9.9 will be Beta.
-       1.0.0+ will be Main OS.
-       1.0.0+ with letters (e.g. 1.0.0a) wil be Test Versions.
+🌟 Welcome to TestOS!
+TestOS is a lightweight, Python-based environment that mimics classic operating systems. Born from passion and curiosity, it combines nostalgia with modern functionality – all packed under 25 KB!
+
+Key Features:
+✅ Retro-style command interface
+✅ File system operations (DIR, COPY, DEL)
+✅ "BSOD" simulator (with 5% random trigger chance!)
+✅ Built-in calculator & Tic-Tac-Toe game
+✅ Real file persistence via DATA_ROOT
+
+🚀 Getting Started
+Run in 3 steps:
+1.Clone the repository:
+  git clone https://github.com/Timon4ikRU/TestOS  
+2. Navigate to the project:
+  cd TestOS
+3. Launch the latest version:
+  python TestOS_DevTest_0.0.5.py  
+
+🌍 Call for Translators!
+Currently TestOS is Russian-only, but we need your help to go global!
+
+How to contribute:
+Fork this repository
+Translate command outputs/UI text to your language
+Submit a Pull Request with filename TestOS_<version>_<lang>.py
+Share your work with #TestOS_Help
+Example: TestOS_0.0.5_EN.py for English version
+
+💡 Project Highlights
+All 5 versions created in one day (July 25, 2025)
+Extreme minimalism – core functionality under 25 KB
+Educational focus – perfect for learning OS basics
+Expandable architecture – add your own modules!
+
+🤝 Join the Revolution!
+Create your own distributions (like Linux distros) and share with #TestOS_Help. Whether you're adding:
+New commands (NET, GUI)
+Language packs
+Hardware emulation
+Game expansions
+...your creativity is welcome!
+
+# Big dream, small code - the future OS starts here!
+
+"It's not just code – it's my childhood dream running in a terminal."
+– timon4ikru
