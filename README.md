@@ -5,7 +5,8 @@ And today, my wish became true! I'm ready to present my DevTest versions of my f
 Well, I don't know how to name it because it's NOT an OS. It's a Python code that used to be an OS. 
 Now it only has Russian language, but later, the English versions will be deployed. If you want, you can help me with translation by taking my files and translating them to English language.
 By the way, you can create not only english version, if you know other languages, you can translate to them too.
-And, if you want so, you can create distributives of this... "OS". Like in Linux.
+And, if you want so, you can create distributives of this... "OS". Like in Linux. 
+Btw, if you make some distributives/translations, publish them with #TestOS_Help hashtag.
 
 P.S. all 5 versions were made in one day, 25th of July.
 P.P.S. 0.0.1 - 0.0.9 is DevTest. 
