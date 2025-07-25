@@ -1,4 +1,4 @@
-TestOS: A Minimalist OS-Style Environment 🖥️
+# TestOS: A Minimalist OS-Style Environment 🖥️
 Crafted by timon4ikru, a 7th-grade Russian student
 
 "At 10 years old, I dreamed of creating my own OS. Today, that dream becomes reality!"
