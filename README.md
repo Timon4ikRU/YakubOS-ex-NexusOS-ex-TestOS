@@ -55,5 +55,6 @@ Game expansions
 
 # Big dream, small code - the future OS starts here!
 
-"It's not just code – it's my childhood dream running in a terminal."
+>"It's not just code – it's my childhood dream running in a terminal."
+
 – timon4ikru
