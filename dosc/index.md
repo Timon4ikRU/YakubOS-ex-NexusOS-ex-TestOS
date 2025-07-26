@@ -15,4 +15,5 @@ title: "TestOS Project"
 📥 **Quick start**:
 
 git clone https://github.com/Timon4ikRU/TestOS
+
 cd TestOS && python TestOS_DevTest_0.0.5.py
