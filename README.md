@@ -30,6 +30,7 @@ Run in 3 steps:
   python TestOS_DevTest_0.0.5.py  
 
 🌍 Call for Translators!
+
 Currently TestOS is Russian-only, but we need your help to go global!
 
 How to contribute:
@@ -39,13 +40,15 @@ Submit a Pull Request with filename TestOS_<version>_<lang>.py
 Share your work with #TestOS_Help
 Example: TestOS_0.0.5_EN.py for English version
 
-💡 Project Highlights
+💡 Project Highlights:
+
 All 5 versions created in one day (July 25, 2025)
 Extreme minimalism – core functionality under 25 KB
 Educational focus – perfect for learning OS basics
 Expandable architecture – add your own modules!
 
 🤝 Join the Revolution!
+
 Create your own distributions (like Linux distros) and share with #TestOS_Help. Whether you're adding:
 New commands (NET, GUI)
 Language packs
