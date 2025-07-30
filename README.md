@@ -27,7 +27,7 @@ Run in 3 steps:
 
 3. Launch the latest version:
 
-  python TestOS_DevTest_0.0.5.py  
+  python TestOS_DevTest_0.0.6.py  
 
 🌍 Call for Translators!
 
