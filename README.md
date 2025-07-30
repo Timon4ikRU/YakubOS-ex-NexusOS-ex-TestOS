@@ -62,7 +62,9 @@ Game expansions
 
 – timon4ikru
 
-
-**Translations by**:  
-- [Timofey Yakubov](https://github.com/timon4ikru) (Russian)  
-- [DeepSeek AI](https://deepseek.com) (https://github.com/deepseek-ai) (English co-translation)  
+## 🏆 Credits  
+```yaml
+- Creator: [Timofey Yakubov](https://github.com/Timon4ikRU)  
+- English Co-Translator: [DeepSeek AI](https://deepseek.com)  
+```
+*(Automaticly generated from [.github/credits.yml](/.github/credits.yml)*  
