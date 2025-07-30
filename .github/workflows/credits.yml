@@ -1,0 +1,15 @@
+name: Update Credits
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-credits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update release description
+        run: |
+          echo "### Credits" >> $GITHUB_WORKSPACE/release_notes.md
+          cat .github/credits.yml | yq e '.credits[] | "- \(.name) (\(.role))"' - >> $GITHUB_WORKSPACE/release_notes.md
+          echo "\n_Generated from [credits.yml](/.github/credits.yml)_" >> $GITHUB_WORKSPACE/release_notes.md
