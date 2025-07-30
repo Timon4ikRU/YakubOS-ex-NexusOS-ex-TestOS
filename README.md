@@ -61,3 +61,8 @@ Game expansions
 >"It's not just code – it's my childhood dream running in a terminal."
 
 – timon4ikru
+
+
+**Translations by**:  
+- [Timofey Yakubov](https://github.com/timon4ikru) (Russian)  
+- [DeepSeek AI](https://deepseek.com) (https://github.com/deepseek-ai) (English co-translation)  
