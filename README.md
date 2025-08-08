@@ -67,3 +67,6 @@ Game expansions
 - English Co-Translator: [DeepSeek AI](https://deepseek.com)  
 ```
 *(Automaticly generated from [.github/credits.yml](/.github/credits.yml)*  
+
+## License  
+TestOS is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
