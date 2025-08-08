@@ -1,7 +1,0 @@
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
