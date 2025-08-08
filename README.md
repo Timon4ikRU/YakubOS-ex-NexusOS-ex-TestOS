@@ -9,7 +9,6 @@ TestOS is a lightweight, Python-based environment that mimics classic operating 
 Key Features:
 ✅ Retro-style command interface
 ✅ File system operations (DIR, COPY, DEL)
-✅ "BSOD" simulator (with 5% random trigger chance!)
 ✅ Built-in calculator & Tic-Tac-Toe game
 ✅ Real file persistence via DATA_ROOT
 
