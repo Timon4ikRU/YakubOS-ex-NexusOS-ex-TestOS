@@ -1,10 +1,10 @@
-# 0xOS: A Minimalist OS-Style Environment 🖥️
+# YakubOS: A Minimalist OS-Style Environment 🖥️
 Crafted by timon4ikru, a 7th-grade Russian student
 
 "At 10 years old, I dreamed of creating my own OS. Today, that dream becomes reality!"
 
-🌟 Welcome to 0xOS!
-0xOS is a lightweight, Python-based environment that mimics classic operating systems. Born from passion and curiosity, it combines nostalgia with modern functionality – all packed under 25 KB!
+🌟 Welcome to YakubOS!
+YakubOS is a lightweight, Python-based environment that mimics classic operating systems. Born from passion and curiosity, it combines nostalgia with modern functionality – all packed under 25 KB!
 
 Key Features:
 ✅ Retro-style command interface
@@ -18,11 +18,11 @@ Run in 3 steps:
 
 1.Clone the repository:
 
-  git clone https://github.com/Timon4ikRU/0xOS-ex-NexusOS-ex-TestOS  
+  git clone https://github.com/Timon4ikRU/YakubOS-ex-NexusOS-ex-TestOS  
 
 2. Navigate to the project:
 
-  cd 0xOS
+  cd YakubOS
 
 3. Launch the latest version:
 
@@ -38,7 +38,7 @@ Expandable architecture – add your own modules!
 
 🤝 Join the Revolution!
 
-Create your own distributions (like Linux distros) and share with #0xOS_Help. Whether you're adding:
+Create your own distributions (like Linux distros) and share with #YakubOS_Help. Whether you're adding:
 New commands (NET, GUI)
 Language packs
 Hardware emulation
@@ -59,4 +59,4 @@ Game expansions
 *(Automaticly generated from [.github/credits.yml](/.github/credits.yml)*  
 
 ## License  
-0xOS is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
+YakubOS is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
