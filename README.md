@@ -23,6 +23,7 @@ Run in these steps:
 2. Navigate to the project:
 
   unzip YakubOS-CSharp-v1.0.zip
+  
   cd YakubOS-CSharp-v1.0.zip
   
 3. Launch:
