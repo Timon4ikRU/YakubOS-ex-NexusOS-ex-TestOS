@@ -14,7 +14,7 @@ Key Features:
 
 🚀 Getting Started
 
-Run in 3 steps:
+Run in these steps:
 
 1.Clone the repository:
 
@@ -22,11 +22,12 @@ Run in 3 steps:
 
 2. Navigate to the project:
 
-  cd YakubOS
+  unzip YakubOS-CSharp-v1.0.zip
+  cd YakubOS-CSharp-v1.0.zip
+  
+3. Launch:
 
-3. Launch the latest version:
-
-  python NexusOS-DT-0.0.9.py  
+  .\YakubOS.exe
 
 
 💡 Project Highlights:
